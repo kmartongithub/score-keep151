@@ -1,0 +1,20 @@
+{
+  "name": "score-keep151",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "babel-runtime": "^6.20.0",
+    "meteor-node-stubs": "~0.2.4",
+    "numeral": "^2.0.6",
+    "prop-types": "^15.5.10",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "react-flip-move": "^2.9.15",
+    "shortid": "^2.2.8"
+  },
+  "engines": {
+    "node": "4.8.4"
+  }
+}
